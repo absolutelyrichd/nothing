@@ -1,2 +1,2 @@
-# nothing
- Just bored
+# Nothing
+ Just bored.
